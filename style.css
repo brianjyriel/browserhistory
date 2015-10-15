@@ -2,19 +2,20 @@ body
 {
   font-family: "Open Sans", sans-serif;
   color: darkblue;
-  background-color: ivory;
+  background-color: black;
   margin: 10px 50px 10px 50px;
 }
 
 h1, h2
 {
   font-family: "Oswald", sans-serif;
+  color: white;
 }
 
 p
 {
  font-family: "Open Sans";
-  color: darkblue;
+  color: white;
 
 }
 
@@ -22,4 +23,19 @@ img
 {
 float: left;
   margin-right: 10px;
+}
+.left
+{
+  float: 200px;
+
+}
+.center
+{
+  margin-left: 100px;
+  margin-right: 100px;
+
+}
+.right
+{
+  float: 200px;
 }
