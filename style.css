@@ -1,25 +1,15 @@
-body
-{
-  font-family: "Open Sans", sans-serif;
-  color: darkblue;
-  background-color: ivory;
-  margin: 10px 50px 10px 50px;
+body {
+  padding-top: 75px;  /* Move body of page below navbar. */
 }
 
-h1, h2
-{
-  font-family: "Oswald", sans-serif;
+.page-content {
+  padding: 10px;
+  text-align: center;
 }
 
-p
-{
- font-family: "Open Sans";
-  color: darkblue;
-
-}
-
-img
-{
-float: left;
+img {
+ float: left;
+  margin-left: auto;
   margin-right: 10px;
 }
+
